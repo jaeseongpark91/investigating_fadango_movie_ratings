@@ -11,4 +11,4 @@ This project requires Python 3 and following Python library.
 - Seaborn
 
 ### Data
-This project is part of Dataquest.io guided project. The dataset is provided by Dataquest.io.
+This project is part of Dataquest.io guided project. The dataset **'movie_ratings_16_17.csv'** and **fandango_score_comparison.csv'** are provided by Dataquest.io.
